@@ -116,31 +116,32 @@
  <table style="width: 100%;">
     <tr>
         <td style="text-align: center; width: 16.67%;">
-            <h4>Konumların Listelenmesi</h4>
+            <h4 style="font-size: 14px;">Konumların Listelenmesi</h4>
             <img src="https://github.com/user-attachments/assets/3705b73b-1e48-4200-8dd7-bb7832483cc5" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4>İşaretlenen Konum Detaylı Gösterim</h4>
+            <h4 style="font-size: 14px;">İşaretlenen Konum Detaylı Gösterim</h4>
             <img src="https://github.com/user-attachments/assets/c56bcc2b-45a5-43f8-bd82-e8968828c1bc" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4>Kaydedilen Konum Gösterimi</h4>
+            <h4 style="font-size: 14px;">Kaydedilen Konum Gösterimi</h4>
             <img src="https://github.com/user-attachments/assets/7a474c52-eb5c-4043-bf36-bbae8c03d565" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4>Uyarı Mesajı</h4>
+            <h4 style="font-size: 14px;">Uyarı Mesajı</h4>
             <img src="https://github.com/user-attachments/assets/c911d5db-32ab-4eee-9815-d1140a7be7be" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4>Kaydedilen Konumu Silme</h4>
+            <h4 style="font-size: 14px;">Kaydedilen Konumu Silme</h4>
             <img src="https://github.com/user-attachments/assets/099300c1-39c4-49c8-bcb5-a23b37b16509" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4>Konuma Detayına Tıklandığı Harita Hesaplaması</h4>
+            <h4 style="font-size: 14px;">Konuma Detayına Tıklandığı Harita Hesaplaması</h4>
             <img src="https://github.com/user-attachments/assets/225bd0c9-7d89-485c-a94f-6f0246276c6a" style="width: 100%; height: auto;">
         </td>
     </tr>
 </table>
+
 
 
 

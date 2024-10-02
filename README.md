@@ -111,4 +111,46 @@
 
 <details>
     <summary><h2>Uygulama Görselleri </h2></summary>
+    
+    
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Görsel 1</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="https://github.com/user-attachments/assets/3705b73b-1e48-4200-8dd7-bb7832483cc5" style="width: 50%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Görsel 2</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="https://github.com/user-attachments/assets/7a443a6e-4981-4430-bcc9-d3369e86b133" style="width: 50%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Görsel 3</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="https://github.com/user-attachments/assets/7a474c52-eb5c-4043-bf36-bbae8c03d565" style="width: 50%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Görsel 4</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="https://github.com/user-attachments/assets/c911d5db-32ab-4eee-9815-d1140a7be7be" style="width: 50%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Görsel 5</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="https://github.com/user-attachments/assets/099300c1-39c4-49c8-bcb5-a23b37b16509" style="width: 50%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Görsel 6</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="https://github.com/user-attachments/assets/225bd0c9-7d89-485c-a94f-6f0246276c6a" style="width: 50%; height: auto;"></td>
+    </tr>
+  </table>
+
+  
   </details> 

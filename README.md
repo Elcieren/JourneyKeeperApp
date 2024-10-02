@@ -102,11 +102,13 @@
     ```
   </details> 
 
-  <details>
-    <summary><h2>Uygulama Görselleri </h2></summary>
-  </details> 
+  
 
 
 
    
 </details>
+
+<details>
+    <summary><h2>Uygulama Görselleri </h2></summary>
+  </details> 
